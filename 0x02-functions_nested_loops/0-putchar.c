@@ -2,6 +2,7 @@
 
 /**
  * main - Entry point 
+ * _putchar: print the alphapets putchar
  * Return: Always 0
  */
 int main(void)
