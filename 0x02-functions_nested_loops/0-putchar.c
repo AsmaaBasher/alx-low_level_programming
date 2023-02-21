@@ -1,10 +1,11 @@
 #include "main.h"
-
 /**
- * main - Entry point 
+ * main - main function
  * _putchar: print the alphapets putchar
  * Return: Always 0
  */
+
+
 int main(void)
 {
 _putchar('_');
